@@ -12,7 +12,7 @@ Your notes will be Private to you, only you can access your Notes. You can easil
 
 ## Technologies used
 
- MongoDB, Express.Js, React.Js, Node.Js, HTML, CSS, JavaScript.
+  React.Js, Node.Js, HTML, CSS, JavaScript.
 
 ## More Info
 The User Data is safely Secured using Salting of Passwords. 
